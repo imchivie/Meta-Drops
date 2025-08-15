@@ -1,6 +1,6 @@
 # Meta Drops - Automated Twitch Drops Tool
 
-![Banner](https://cdn.discordapp.com/attachments/1225250774699737151/1404204000370491462/banner.png?ex=689a5662&is=689904e2&hm=cf8ba6da6db823de66493b3868532a8f788130291b8ec461f07dbfc7751d6c0b&)
+![Banner](https://imgur.com/a/gMZ5i4q)
 
 ## 📌 Overview
 
