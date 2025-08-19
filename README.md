@@ -58,4 +58,4 @@ MIT License - See [LICENSE](LICENSE) file
 ---
 
 🔧 **Maintainer**: [@cjchivie](https://github.com/imchivie)  
-🐛 **Report Issues**: [Issue Tracker](https://github.com/imchivie/Meta-Drops/issues) _[@cjchivie](https://github.com/imchivie/Meta-Drops/issues)_
+🐛 **Report Issues**: [Issue Tracker](https://github.com/imchivie/Meta-Drops/issues) 
