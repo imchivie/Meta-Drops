@@ -5,7 +5,8 @@
 ## 📌 Overview
 
 Automatically checks Twitch streams for active streamers and manages browser sessions to farm drop rewards.
-**The application works as a simple schedular that goes through a list of streams for you to watch them one by one.**
+
+**This application works as a simple schedular that goes through a list of streams for you to watch them one by one.**
 
 ## ✨ Features
 
